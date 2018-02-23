@@ -14,9 +14,9 @@
      - Smashed window
      - Poured water on server
      
-     `Amazon <http://amazon.com/>`_
+`Amazon <http://amazon.com/>`_
      
-      `Netflix <http://netflix.com/>`_
+`Netflix <http://netflix.com/>`_
 
 
 
