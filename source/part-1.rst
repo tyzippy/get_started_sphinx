@@ -8,7 +8,7 @@ tyzippy@hotmail.com
 Relevant Skills
 #################
 
-* I use computers
+* I use tools
 * I turn computers off and turn them back on.
 * I send emails
 * I watch Netflix `Netflix <http://netflix.com/>`_
