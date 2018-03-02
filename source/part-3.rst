@@ -24,7 +24,7 @@ Some code I've written
 
   This paragraph will be shown only in the User's Guide.
   
-  .. note:: You might find this interesting.
+  .. note:: You might find this scary.
 
 .. caution:: Don't feed |T| after midnight.
 
